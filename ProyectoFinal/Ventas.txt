@@ -1,0 +1,32 @@
+
+2021-12-02
+Cliente: vm
+Producto: Neumatico 6401-001
+Marca: Kenda 2.75-17
+Subtotal: 625.0
+IVA: 100.0
+Total: 725.0
+
+2021-12-02
+Cliente: VM
+Producto: Neumatico 6401-001
+Marca: Kenda 2.75-17
+Subtotal: 625.0
+IVA: 100.0
+Total: 725.0
+
+2021-12-03
+Cliente: vm
+Producto: Neumatico 6401-001
+Marca: Kenda 2.75-17
+Subtotal: 625.0
+IVA: 100.0
+Total: 725.0
+
+2021-12-03
+Cliente: Alejandro
+Producto: Neumatico 6401-001
+Marca: Kenda 2.75-17
+Subtotal: 625.0
+IVA: 100.0
+Total: 725.0
